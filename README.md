@@ -1,4 +1,4 @@
-# Jellyamp: Desktop music player for Jellyfin
+# MBAmp: Desktop music player for Emby
 
 [![Build Status](https://travis-ci.org/m0ngr31/jellyamp.svg?branch=master)](https://travis-ci.org/m0ngr31/jellyamp)
 
@@ -7,7 +7,7 @@
 </p>
 
 ## About
-A stylish, cross-platform desktop client for listening to music from a Jellyfin server. Inspired by Plexamp.
+A stylish, cross-platform desktop client for listening to music from a Emby server. Inspired by Plexamp, forked from Jellyamp.
 
 ## In Action
 
